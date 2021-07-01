@@ -1,0 +1,27 @@
+var_4: var_1
+var_5: []
+var_6: 
+  nest:
+    item1: item1
+    item2: item2
+VAR_sample_06: VAR_sample_01_val
+VAR_sample_07:
+  - VAR_sample_02_list_1
+  - VAR_sample_02_list_2
+VAR_sample_08: []
+VAR_sample_09:
+  loop:
+    item1: []
+    item2: VAR_1sample_04_item2
+VAR_sample_10:
+  array1:
+    array2:
+      - array2_1: array2_1
+        array2_2:
+         - array2_2_1: array2_2_1
+           array2_2_2:
+             - array2_2_2_1: array2_2_2_1
+               array2_2_2_2: array2_2_2_2
+               array2_2_2_3: array2_2_2_3
+           array2_2_3: array2_2_3
+        array2_3: []

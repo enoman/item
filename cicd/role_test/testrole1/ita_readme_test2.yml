@@ -1,0 +1,12 @@
+VAR_readme3:
+  - readme_3_1: readme_3_1_1
+    readme_3_2: readme_3_2_1
+VAR_readme4:
+  - readme_4_1: readme_4_1_1
+    readme_4_2: readme_4_1_2
+VAR_readme_comm1: aaa
+VAR_readme_comm2: []
+VAR_readme_comm3:
+  item1: item1
+  item2: item2
+  item3: item3
