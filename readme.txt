@@ -9,7 +9,7 @@ HAS佐伯 舞 saeki109@ha-sys.co.jp
 Purchase-SD@ha-sys.co.jp
 【請求書】榎本雅士
 To佐伯さん
-Cc廣阪さん　勝賀さん
+Cc廣阪さん　勝賀さんsaac
 
 榎本です。お世話になります。
 
