@@ -4,4 +4,4 @@
 - command: echo '{{ var_4 }}'
 - command: echo '{{ var_5 }}'
 - command: echo '{{ VAR_sample_06 }}'
-- command: echo '{{ VAR_sample_07 }}'
+- command: echo '{{ VAR_sample_07 }}'  
