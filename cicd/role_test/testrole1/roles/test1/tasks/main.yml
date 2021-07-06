@@ -2,6 +2,6 @@
 - command: echo '{{ CPF_role_1 }}'
 - command: echo '{{ GBL_role_1 }}'
 - command: echo '{{ var_1 }}'
-- command: echo '{{ var_2 }}'
+- command: echo '{{ var_2 }}'ss
 - command: echo '{{ VAR_sample_01 }}'
 - command: echo '{{ VAR_sample_02 }}'ss
